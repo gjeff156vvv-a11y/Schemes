@@ -82,7 +82,7 @@
 
 <item itemtype="Node" CircId="Node-37" mainComp="false" Pos="-580,-656" />
 
-<item itemtype="Node" CircId="Node-38" mainComp="false" Pos="-580,-624" />
+<item itemtype="Node" CircId="Node-38" mainComp="false" Pos="-572,-624" />
 
 <item itemtype="Node" CircId="Node-40" mainComp="false" Pos="-200,-772" />
 
@@ -140,11 +140,11 @@
 
 <item itemtype="Connector" uid="Connector-38" startpinid="Node-37-2" endpinid="Resistor-16-lPin" pointList="-580,-656,-580,-708,-556,-708" />
 
-<item itemtype="Connector" uid="Connector-39" startpinid="Node-38-1" endpinid="Resistor-3-lPin" pointList="-580,-624,-580,-576,-552,-576" />
+<item itemtype="Connector" uid="Connector-39" startpinid="Node-38-1" endpinid="Resistor-3-lPin" pointList="-572,-624,-572,-576,-552,-576" />
 
-<item itemtype="Connector" uid="Connector-40" startpinid="Switch-22-switch0pinN" endpinid="Node-38-0" pointList="-592,-624,-580,-624" />
+<item itemtype="Connector" uid="Connector-40" startpinid="Switch-22-switch0pinN" endpinid="Node-38-0" pointList="-592,-624,-572,-624" />
 
-<item itemtype="Connector" uid="Connector-41" startpinid="Node-38-2" endpinid="Resistor-21-lPin" pointList="-580,-624,-580,-676,-560,-676" />
+<item itemtype="Connector" uid="Connector-41" startpinid="Node-38-2" endpinid="Resistor-21-lPin" pointList="-572,-624,-572,-676,-560,-676" />
 
 <item itemtype="Connector" uid="Connector-42" startpinid="BJT-58-emiter" endpinid="BJT-41-collector" pointList="-272,-704,-272,-704" />
 
